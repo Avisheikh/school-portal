@@ -1,0 +1,241 @@
+{
+  "openingBalance": 50000,
+  "categories": [
+    {
+      "code": "INC-01",
+      "name": "Donations / Sponsorship",
+      "type": "income",
+      "sector": "Donations",
+      "active": true,
+      "id": "718f80e5-3d5e-4572-a1e3-bb9a73c87cef",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "INC-02",
+      "name": "Grants & Partners",
+      "type": "income",
+      "sector": "Grants",
+      "active": true,
+      "id": "6986aba0-1d52-4071-8689-ac3d2f1a1cb0",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "INC-03",
+      "name": "Other Income",
+      "type": "income",
+      "sector": "Other Income",
+      "active": true,
+      "id": "569b24eb-9dfa-47f1-9733-ec9ffbd8f631",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-01",
+      "name": "Electricity",
+      "type": "expense",
+      "sector": "Utilities",
+      "active": true,
+      "id": "02319509-f74d-42e2-a66c-e97fe897d2fe",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-02",
+      "name": "Water & Sanitation",
+      "type": "expense",
+      "sector": "Utilities",
+      "active": true,
+      "id": "34652d47-26be-46f8-b732-9688e80aa367",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-03",
+      "name": "Internet / Phone",
+      "type": "expense",
+      "sector": "Utilities",
+      "active": true,
+      "id": "28d69f74-9f69-41f2-b48a-42ce215fdaae",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-04",
+      "name": "Teacher & Staff Salary",
+      "type": "expense",
+      "sector": "Salaries",
+      "active": true,
+      "id": "cdada1ce-836e-4a63-bec6-d2dacc28b288",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-05",
+      "name": "Teaching Materials",
+      "type": "expense",
+      "sector": "Education",
+      "active": true,
+      "id": "8102d9b8-c5ad-441e-8b55-cbfa5490f701",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-06",
+      "name": "Student Support / Meals",
+      "type": "expense",
+      "sector": "Education",
+      "active": true,
+      "id": "e0fec003-8c2b-41f6-b58a-f534fe0db556",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-07",
+      "name": "Campus Maintenance",
+      "type": "expense",
+      "sector": "Maintenance",
+      "active": true,
+      "id": "59414a10-9cb3-4d77-9d54-df6002f135dd",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-08",
+      "name": "Transport / Travel",
+      "type": "expense",
+      "sector": "Transport",
+      "active": true,
+      "id": "ac187408-6b43-468a-81d9-96cd45acb4ec",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-09",
+      "name": "Events & Activities",
+      "type": "expense",
+      "sector": "Programs",
+      "active": true,
+      "id": "c18d541c-85ff-41c0-ae02-d4a0145e0025",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-10",
+      "name": "Admin & Office",
+      "type": "expense",
+      "sector": "Administration",
+      "active": true,
+      "id": "4fec310a-b3d4-446f-b600-b8dc48e54f91",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-11",
+      "name": "Miscellaneous Expense",
+      "type": "expense",
+      "sector": "Miscellaneous",
+      "active": true,
+      "id": "9c794235-fae1-4bfd-af4c-b3c608a5b2ec",
+      "createdAt": "2026-09-06T05:48:24.700Z"
+    },
+    {
+      "code": "EXP-STAT",
+      "name": "Stationeries",
+      "type": "expense",
+      "sector": "Education",
+      "id": "04b76fe1-3152-4e69-bc42-e426bdd8c365",
+      "active": true,
+      "createdAt": "2026-09-06T06:00:30.251Z"
+    },
+    {
+      "code": "EXP-FOOD",
+      "name": "Food Expense",
+      "type": "expense",
+      "sector": "Food & Meals",
+      "id": "1606648f-11e5-4015-88bd-17177b5391da",
+      "active": true,
+      "createdAt": "2026-09-06T06:00:30.251Z"
+    }
+  ],
+  "entries": [
+    {
+      "id": "525d26fd-ab1b-4bae-99c9-1a77c616a189",
+      "date": "2026-01-10",
+      "voucherNo": "R-001",
+      "particular": "Donation received — village project support",
+      "categoryId": "718f80e5-3d5e-4572-a1e3-bb9a73c87cef",
+      "categoryName": "Donations / Sponsorship",
+      "sector": "Donations",
+      "type": "income",
+      "debit": 0,
+      "credit": 100000,
+      "notes": "",
+      "createdAt": "2026-09-06T05:48:24.701Z",
+      "updatedAt": "2026-09-06T05:48:24.701Z"
+    },
+    {
+      "id": "f048a21d-cf15-4d28-b029-01fa27c7c19e",
+      "date": "2026-01-15",
+      "voucherNo": "E-001",
+      "particular": "NEA electricity bill — January",
+      "categoryId": "02319509-f74d-42e2-a66c-e97fe897d2fe",
+      "categoryName": "Electricity",
+      "sector": "Utilities",
+      "type": "expense",
+      "debit": 4500,
+      "credit": 0,
+      "notes": "",
+      "createdAt": "2026-09-06T05:48:24.701Z",
+      "updatedAt": "2026-09-06T05:48:24.701Z"
+    },
+    {
+      "id": "8d8232a0-60d0-4c47-a266-da9390a87dd3",
+      "date": "2026-02-15",
+      "voucherNo": "E-002",
+      "particular": "NEA electricity bill — February",
+      "categoryId": "02319509-f74d-42e2-a66c-e97fe897d2fe",
+      "categoryName": "Electricity",
+      "sector": "Utilities",
+      "type": "expense",
+      "debit": 4200,
+      "credit": 0,
+      "notes": "",
+      "createdAt": "2026-09-06T05:48:24.701Z",
+      "updatedAt": "2026-09-06T05:48:24.701Z"
+    },
+    {
+      "id": "54824c13-dc86-4bd9-ab04-f8ed809f0334",
+      "date": "2026-02-28",
+      "voucherNo": "S-002",
+      "particular": "Teacher & staff salary — February",
+      "categoryId": "cdada1ce-836e-4a63-bec6-d2dacc28b288",
+      "categoryName": "Teacher & Staff Salary",
+      "sector": "Salaries",
+      "type": "expense",
+      "debit": 45000,
+      "credit": 0,
+      "notes": "",
+      "createdAt": "2026-09-06T05:48:24.701Z",
+      "updatedAt": "2026-09-06T05:48:24.701Z"
+    },
+    {
+      "id": "5228da49-1ea5-4b3d-a863-59b447654096",
+      "date": "2026-03-15",
+      "voucherNo": "E-003",
+      "particular": "NEA electricity bill — March",
+      "categoryId": "02319509-f74d-42e2-a66c-e97fe897d2fe",
+      "categoryName": "Electricity",
+      "sector": "Utilities",
+      "type": "expense",
+      "debit": 4800,
+      "credit": 0,
+      "notes": "",
+      "createdAt": "2026-09-06T05:48:24.701Z",
+      "updatedAt": "2026-09-06T05:48:24.701Z"
+    },
+    {
+      "id": "82bc0df8-ba34-49c2-b794-03b190ae6827",
+      "date": "2026-09-06",
+      "voucherNo": "1",
+      "particular": "NEA Payment",
+      "categoryId": "02319509-f74d-42e2-a66c-e97fe897d2fe",
+      "categoryName": "Electricity",
+      "sector": "Utilities",
+      "type": "expense",
+      "debit": 84000,
+      "credit": 0,
+      "notes": "Asar koo ho",
+      "createdAt": "2026-09-06T06:22:37.207Z",
+      "updatedAt": "2026-09-06T06:22:37.207Z"
+    }
+  ]
+}

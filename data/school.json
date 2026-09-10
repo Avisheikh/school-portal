@@ -1,0 +1,174 @@
+{
+  "school": {
+    "name": "School of Social Development",
+    "shortName": "SOSD Bodgaun",
+    "location": "Bodgaun",
+    "ward": "Indrawati Rural Municipality – Ward 11",
+    "municipality": "Indrawati Rural Municipality",
+    "district": "Sindhupalchowk",
+    "established": "2021",
+    "phone": "",
+    "email": "info@ssd-bodgaun.org",
+    "about": "School of Social Development (SOSD) is a village education project in Bodgaun, Indrawati-11, Sindhupalchowk. Since 2021 we have grown a sky-blue campus among mustard fields — kindergarten, elementary learning, youth programmes and community care for children who deserve a fair start.",
+    "mission": "To give every child in Bodgaun learning, dignity and opportunity — and to invite friends near and far to invest in a village project that changes lifetimes."
+  },
+  "students": [
+    {
+      "id": "ab828744-4dbd-4f39-93ca-c96da5814de6",
+      "name": "Sample Student",
+      "gender": "female",
+      "dateOfBirth": "2019-05-12",
+      "classLevel": "Play Group",
+      "fatherName": "Parent Father",
+      "motherName": "Parent Mother",
+      "parentPhone": "98XXXXXXXX",
+      "parentPhoneAlt": "",
+      "address": "Bodgaun, Ward 11",
+      "enrollmentDate": "2024-04-01",
+      "status": "active",
+      "notes": "Demo record — replace with real data",
+      "createdAt": "2026-09-06T04:18:42.665Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "250e6953-77bb-4673-91b7-1238e1eb85dc",
+      "name": "Sample Teacher",
+      "role": "Kindergarten Teacher",
+      "qualification": "B.Ed",
+      "photoUrl": "",
+      "phone": "98XXXXXXXX",
+      "email": "teacher@ssd-bodgaun.org",
+      "subjects": "Early Childhood, Literacy",
+      "joinDate": "2023-01-15",
+      "status": "active",
+      "bio": "Demo teacher profile",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    }
+  ],
+  "staff": [
+    {
+      "id": "5de82dd0-6f58-40e3-9003-00b69fb729ce",
+      "name": "Sample Staff",
+      "position": "School Coordinator",
+      "phone": "98XXXXXXXX",
+      "joinDate": "2022-06-01",
+      "status": "active",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "69bc7925-ceeb-47de-b540-45437988cce2",
+      "personType": "teacher",
+      "personId": "250e6953-77bb-4673-91b7-1238e1eb85dc",
+      "personName": "Sample Teacher",
+      "date": "2026-09-06",
+      "status": "present",
+      "notes": "",
+      "markedAt": "2026-09-06T04:21:32.059Z"
+    },
+    {
+      "id": "b50fdd57-e2cd-4a7d-bed2-a6e182b704f3",
+      "personType": "staff",
+      "personId": "5de82dd0-6f58-40e3-9003-00b69fb729ce",
+      "personName": "Sample Staff",
+      "date": "2026-09-06",
+      "status": "present",
+      "notes": "",
+      "markedAt": "2026-09-06T04:21:32.059Z"
+    }
+  ],
+  "activities": [
+    {
+      "id": "ecbdf65b-7e68-4946-b602-b3a4977a12cd",
+      "title": "Welcome to Bodgaun",
+      "description": "Students and Joy Nepal Action Volunteers celebrate together — cakes, uniforms, and open hearts in the blue courtyard.",
+      "date": "2024-12-01",
+      "category": "Celebration",
+      "imageUrl": "/media/welcome-celebration.jpg",
+      "published": true,
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "a11b22c3-d4e5-4678-9abc-def012345678",
+      "title": "Blessings in the courtyard",
+      "description": "Tika, care and community — elders and teachers wrapping children in belonging.",
+      "date": "2025-03-15",
+      "category": "Community",
+      "imageUrl": "/media/tika-blessing.jpg",
+      "published": true,
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "b22c33d4-e5f6-4789-abcd-ef0123456789",
+      "title": "Friends on the field",
+      "description": "Play, teamwork and kindness — social development lived out between classes.",
+      "date": "2025-06-20",
+      "category": "Sports",
+      "imageUrl": "/media/playground-friends.jpg",
+      "published": true,
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "c33d44e5-f6a7-4890-bcde-f01234567890",
+      "title": "Learning faces of Bodgaun",
+      "description": "Curious children in our colourful courtyard — the reason this village project exists.",
+      "date": "2025-09-01",
+      "category": "Campus life",
+      "imageUrl": "/media/children-courtyard.jpg",
+      "published": true,
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    }
+  ],
+  "programs": [
+    {
+      "id": "0f4cfc54-fe7a-4581-93e9-fd2b2ea3ba3e",
+      "title": "Kindergarten (Foundation 1–3)",
+      "description": "Play-based early learning for about 50 children across three foundation levels — curiosity, literacy, numeracy, and social skills.",
+      "level": "Early Childhood",
+      "duration": "3 foundation years",
+      "capacity": 50,
+      "status": "active",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "ed6edd40-6dcb-4768-85ab-8c705214475f",
+      "title": "Elementary (Grades 1–3)",
+      "description": "Holistic elementary programme inspired by IB practices, preparing learners for transition to government school from Grade 4.",
+      "level": "Elementary",
+      "duration": "Grades 1–3",
+      "status": "active",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "727b2062-69d7-421a-bb22-e84d74cbc718",
+      "title": "IT & Computer Literacy",
+      "description": "Bridging the digital divide with progressive computer skills for youth in Bodgaun.",
+      "level": "Youth / Community",
+      "duration": "Ongoing courses",
+      "status": "active",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    },
+    {
+      "id": "b8e5272f-fc90-4d8b-8c57-69535b656927",
+      "title": "Youth Centre & Training Institute",
+      "description": "Skills, gatherings, and training hosted within the five-building campus ring.",
+      "level": "Community",
+      "duration": "Year-round",
+      "status": "active",
+      "createdAt": "2026-09-06T04:18:42.666Z",
+      "updatedAt": "2026-09-06T04:18:42.666Z"
+    }
+  ]
+}
